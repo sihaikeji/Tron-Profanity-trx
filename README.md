@@ -11,4 +11,6 @@ Tron-波场（TRX）（usdt）靓号地址生成器，利用 GPU 进行加速。
 本程序仅在本仓库发布并更新，请勿下载运行其它来路不明的版本，由此造成的一切损失，由使用者自行承担
 验证
 生成的地址和私钥一定要进行匹配验证。可以尝试将私钥导入钱包，观察对应的地址是否和生成的地址一致。
-![Uploading demo.gif…]()
+
+![demo](https://github.com/sihaikeji/Tron-Profanity-trx/assets/164607790/66dbf81e-1599-42d1-a01a-05065fe0e087)
+
